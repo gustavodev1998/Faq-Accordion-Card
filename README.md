@@ -22,7 +22,7 @@ This project was developed using the following technologies:
 This is a challenge with the purpuse of building a faq accordion card.
 
 ## 🔖 Layout
-To check it out acess: <a target="_blank" href="https://gustavodev1998.github.io/Launch-Countdown-Timer/">Launch-Countdown-Timer</a>
+To check it out acess: <a target="_blank" href="https://gustavodev1998.github.io/Faq-Accordion-Card/">Faq-Accordion-Card</a>
 
 ## :memo: License
 
