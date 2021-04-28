@@ -7,7 +7,7 @@
 <br>
 
 ## 🕒 The challenge
-This is a solution to the [Launch countdown timer challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam) to help me improve coding skills by building realistic projects.
+This is a solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam) to help me improve coding skills by building realistic projects.
 
 ## 🚀 Technologie
 
