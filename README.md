@@ -1,13 +1,13 @@
 # Faq-Accordion-Card
 
 <h1 align="center">
-  <img alt="Timer" title="Timer" src="https://github.com/gustavodev1998/Faq-Accordion-Card/blob/c21e67cbd6d52415deee5e4872a52f34a8261df6/images/FAQ.png" width="820px" />
+  <img alt="Faq-Accordion-Card" title="Faq-Accordion-Card" src="https://github.com/gustavodev1998/Faq-Accordion-Card/blob/c21e67cbd6d52415deee5e4872a52f34a8261df6/images/FAQ.png" width="820px" />
 </h1>
 
 <br>
 
 ## 🕒 The challenge
-This is a solution to the [Launch countdown timer challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam/hub/faq-accordion-card-miHFOEvQ4) to help me improve coding skills by building realistic projects.
+This is a solution to the [Launch countdown timer challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam) to help me improve coding skills by building realistic projects.
 
 ## 🚀 Technologie
 
